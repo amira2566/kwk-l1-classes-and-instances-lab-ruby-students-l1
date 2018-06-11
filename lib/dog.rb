@@ -14,8 +14,8 @@ end
   snoopy.name
   lassie=Dog.new
   lassie.name
-      
-      
+ 
+
       
       
       
